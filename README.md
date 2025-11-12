@@ -1,5 +1,7 @@
 # vanity-sniper-ts
-ılk olarak bun'u kurun "npm i install -g bun" ondan sonra bun run duckevils.ts
+ılk olarak bun'u kurun "npm i -g bun" ondan sonra "bun run duckevils.ts" (uzunda acıcaksanız bat yapın)
+
+
 calısmayabılır deneyebılırsınız sıkıldıgım ıcın yaptım 
 yardım ıcın:
 ## Discord
